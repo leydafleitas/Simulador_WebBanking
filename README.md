@@ -184,26 +184,22 @@ Los principales objetivos son:
 │       ├── SaldoYDeposito.java
 │       └── TransaccionUI.java
 └── README.md
-
+```
 ## 5. Equipo de desarrollo
-
-Proyecto elaborado por el Grupo 4:
-
-- **Leyda Aylen Fleitas Cabrera**  
-  Desarrollo de clases de dominio: Comprobante, Cuenta, Servicios, Tarjeta, TarjetaDeDebito, TarjetaDeCredito, Cliente, Archivos.  
+  Proyecto elaborado por el Grupo 4:
+  
+  Leyda Aylen Fleitas Cabrera
+  Desarrollo de clases de dominio: Comprobante, Cuenta, Servicios, Tarjeta, TarjetaDeDebito, TarjetaDeCredito, Cliente, Archivos.
   Implementación de interfaces: pago de servicios, pago de tarjeta, consulta de saldo y depósito.
-
-- **Andrea Lujan Núñez Rodríguez**  
-  Diseño de todas las interfaces.  
-  Codificación de menús principal e inicial.  
+  
+  Andrea Lujan Núñez Rodríguez
+  Diseño de todas las interfaces.
+  Codificación de menús principal e inicial.
   Generación de documentación Javadoc y archivo ejecutable (.jar).
-
-- **Elena Gisselle Ramirez Medina**  
-  Desarrollo de la clase Transaccion.  
+  
+  Elena Gisselle Ramirez Medina
+  Desarrollo de la clase Transaccion.
   Implementación de la interfaz de transacciones.
-
-- **Baian Juan Pablo Romero Gimenez**  
-  Interfaz de acceso al sistema.  
-  Interfaz de inicio de sesión.  
-  Interfaz para creación de nueva cuenta.
-
+  
+  Baian Juan Pablo Romero Gimenez
+  Interfaz de: acceso al sistema, inicio de sesión, creación de nueva cuenta.

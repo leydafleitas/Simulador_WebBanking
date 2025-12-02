@@ -1,0 +1,36 @@
+Cliente:
+Elias
+Figueredo
+CI: 5438724
+Telefono: 0000000000
+Pin Transaccion: 5438724
+Cuenta: 1
+Tarjeta de credito:
+Nro: 123456789
+Saldo: 4848000.0
+Deuda: 2000.0
+Vencimiento: 12/25
+CVC: 123
+Limite Credito: 5000000.0
+Cuenta: 2
+Tarjeta de debito:
+Nro: 987654321
+Saldo: 50000.0
+Cliente:
+Elias
+Figueredo
+CI: 5438724
+Telefono: 0000000000
+Pin Transaccion: 5438724
+Cuenta: 1
+Tarjeta de credito:
+Nro: 123456789
+Saldo: 4998000.0
+Deuda: 2000.0
+Vencimiento: 12/25
+CVC: 123
+Limite Credito: 5000000.0
+Cuenta: 2
+Tarjeta de debito:
+Nro: 987654321
+Saldo: 50000.0

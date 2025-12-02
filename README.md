@@ -185,7 +185,7 @@ Los principales objetivos son:
 │       └── TransaccionUI.java
 └── README.md
 
-Equipo de desarrollo
+## 5. Equipo de desarrollo
 
 Proyecto elaborado por el Grupo 4:
 
